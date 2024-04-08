@@ -1,0 +1,7 @@
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing_2.csproj.AssemblyReference.cache
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing_2.AssemblyInfoInputs.cache
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing_2.AssemblyInfo.cs
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing_2.csproj.CoreCompileInputs.cache
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing_2.sourcelink.json

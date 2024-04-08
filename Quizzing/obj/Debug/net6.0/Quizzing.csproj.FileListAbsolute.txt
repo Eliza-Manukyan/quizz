@@ -1,0 +1,1644 @@
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.28.39q9133nxw.js
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Quizzing.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Quizzing.pdb
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.28.39q9133nxw.js.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Quizzing.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Quizzing.pdb.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Quizzing.staticwebassets.runtime.json
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Quizzing.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Quizzing.pdb
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.CSharp.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.AppContext.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Buffers.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Collections.Concurrent.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Collections.Specialized.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Collections.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Configuration.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Console.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Core.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Data.Common.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Data.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.Process.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Drawing.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Drawing.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Globalization.Calendars.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Globalization.Extensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Globalization.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Compression.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.FileSystem.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Pipes.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Linq.Expressions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Linq.Parallel.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Linq.Queryable.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Linq.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Memory.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Http.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.HttpListener.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Mail.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.NameResolution.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Ping.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Quic.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Requests.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Security.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.ServicePoint.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Sockets.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.WebClient.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.WebProxy.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.WebSockets.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Numerics.Vectors.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Numerics.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.ObjectModel.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.Uri.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.Xml.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Emit.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Extensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Metadata.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Resources.Reader.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Resources.Writer.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Extensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Handles.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Loader.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Numerics.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Serialization.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.AccessControl.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Claims.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Principal.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.SecureString.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.ServiceModel.Web.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.ServiceProcess.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.Encoding.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Overlapped.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Tasks.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Thread.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Timer.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Transactions.Local.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Transactions.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.ValueTuple.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Web.HttpUtility.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Web.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Windows.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.Linq.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.Serialization.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.XDocument.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.XPath.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\WindowsBase.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\mscorlib.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\netstandard.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.CoreLib.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\dotnet.js
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\dotnet.timezones.blat
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\dotnet.wasm
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\icudt_CJK.dat
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\icudt_EFIGS.dat
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.csproj.AssemblyReference.cache
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.AssemblyInfoInputs.cache
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.AssemblyInfo.cs
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.csproj.CoreCompileInputs.cache
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.sourcelink.json
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\blazor.build.boot-extension.json
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\blazor.boot.json
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets\msbuild.Quizzing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets\msbuild.build.Quizzing.props
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Quizzing.props
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Quizzing.props
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\Components\OptionCard.razor.rz.scp.css
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\Pages\QuizCard.razor.rz.scp.css
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\bundle\Quizzing.styles.css
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\projectbundle\Quizzing.bundle.scp.css
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\tvdc8bqz8u.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\bxdll5u9g6.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\pw9jr7tgju.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\q31bt3f482.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\farezv81w4.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\2lij8tg4fo.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\mc71uuqxg5.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\6lx3nmdem0.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\tq1lk0tojh.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jv28kc62kk.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\lek4ep78h5.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\l62lm6bmk4.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\t5elvctj5n.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\981kp88bo3.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\hnzjf332jp.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\c3cw9ad0gb.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\hdaqd6oh6z.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\yqq1ckbvoj.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\bunvklt7wl.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\c3lmoeiogx.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\s8um75vdr9.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\lxtp8w2xmz.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\1uadr9vnov.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\fql1wd2cfm.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\dg012rbtdy.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\i5l7a02o0a.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\p51nk6lf30.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\9sm4ds8xba.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ceb5yu8s6k.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\33ut3mieat.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\86hcg1cwx9.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\v3g8fltihs.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\uag32rwhwe.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\kob3ur3acz.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\j9qubx16mp.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\c4v6xp4ggc.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\cszpefzqj1.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\p723p79mdd.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\l6jeeaetj1.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\845f9e4q25.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\fv3l2emiw7.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ry7f4lr2ed.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\hpfawarewr.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\bm4zumpq5u.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\9e92avdrqu.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ozjtdddllb.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ty9534bjyz.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\8413o2ratq.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\iflrs609kq.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jwn3tbmqzh.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\6a5nlij63x.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\rrfi90rt0e.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\v89jewpygj.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\l1yrkjtwjc.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\37kk0vvvpt.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\1nfxi4uxba.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\gwm3m9uqih.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\mirclbfwlx.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\9p3e0yds4k.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7x5tf3ale4.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\c2o98dmqdw.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wqn5ryxlax.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\qxdnuu3flj.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\eddwgvavmg.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ahgpbh4ru0.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\437msaieip.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\sdez8n9f8a.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\nqfzo4wjiz.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\q675skonnu.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\qd65du2qwe.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\6fjxiaxvph.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7vthum4jfz.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\rzw81rjqhi.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\iwhkj17up8.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\a34bpqny17.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jbhgtoeaud.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\p5gmehh1b6.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\bxbjdqpr2r.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\je3ccxonmi.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\fpglp3d7yo.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\efbwvi7eok.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\6p0rc9372v.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\51nfjkcskt.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\1ucxqu248u.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\seb04arzz0.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ux3z1uh57z.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\lvkbza3jnq.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\i87xfwyy9q.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\vcbjonvh7h.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\guh7mhahh1.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jo8p5v1jry.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\fzurjwwx2h.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\6f8rju8s5r.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\8m2yo4itpv.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\9zmsqn946a.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\x7eeja6e5s.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\tw3tpx1204.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\gbsif8jvqf.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\dligjq9q9m.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\fom50cvz9c.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\5c7o0pd734.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\im5jowbdkn.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\2xe1abft3i.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\1xdgjg0k0v.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\5901pcx4om.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\i9hmd4bt04.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\0zitns9yq6.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\hpwmjmy35s.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wlx5o5osp3.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\mv0wy7fdeg.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\0132euowju.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\53qemmiz21.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\fk5oz4m4ib.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wiil6lego9.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\gj0rn1nilz.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\s1jv21bsw6.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\kkan17cf0f.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\0bd4zj3cfy.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\v675hzpmit.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\vgkcssnntq.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\690c7yg548.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ofgtko1jz2.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\72b44q5bn9.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\pco4w2ul1m.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\l5rwxt5auq.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jiba1nkjvo.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ldtn7ckb3i.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\g9tteqz2c2.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\qn1lqc5e1c.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\zlvpc2i6gr.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7xsrv60r9n.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\eoopjyhspq.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\48wkqzi29p.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\i899bkw3g8.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\1xlrcjhxjf.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jqsexl0zi1.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\a0raq3aq26.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\nctlg68016.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7y3p9npmv9.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\oirtvnqwn6.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\uc0rp64dtt.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\5wp77uq1ee.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\xh6ez8npak.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\mz5vahd02b.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\x85qjamykm.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\2rctdhhxmi.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\65cik25rum.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\99iyu26qch.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\5krlya1dhg.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\09e5rrr3kb.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\n7z36u485i.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\e8peyp6yr1.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\uir45r97mo.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\m67h3nuupr.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\axhdug1eje.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ee0q746tzk.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\j1woy3ie7o.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\iqd16gbpxj.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jh69el51hp.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\rlvb2inuu5.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\04ri92akwo.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\93iluu5yo5.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jtk9s0m9bq.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\u9m8t70ktu.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\g6e6vvt0qp.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\f9d9qdc020.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ize0ztvhmf.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\fu5p5g6s8m.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\z1y15ilm8o.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\pgubpvq1xv.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\op67885mca.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\bzwagifo7w.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\zqy4evfpe7.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\girtbjljul.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\v620zj7vo3.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\2wvp42p2ce.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\lydylud5c1.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\r3wa82logg.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\qwgmnbkde9.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\dlamnnt2ib.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\9imfeiq5by.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\q8el0k21mh.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\2kg7hzt6tx.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\bx98sknqdd.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\agbsufekov.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\o7bg2y40wi.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\knb1qcipfy.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ciav6mfsxb.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\nidac0eehp.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\mrx64792h4.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\39q9133nxw.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\q14zzptp2s.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\h62n5rysop.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\xk1zqymtl6.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\iscemb12ox.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\3ta5jrkl1c.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\d7t4dnksom.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\xyrffwa945.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\compressed\uji5zuu4c3.gz
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.csproj.Up2Date
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\refint\Quizzing.dll
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.pdb
+C:\Users\IIISI\Source\Repos\Quizzing\Quizzing\obj\Debug\net6.0\ref\Quizzing.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.26.5vdv9z048r.js
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Quizzing.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Quizzing.pdb
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.26.5vdv9z048r.js.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Quizzing.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Quizzing.pdb.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Quizzing.staticwebassets.runtime.json
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Quizzing.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Quizzing.pdb
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.CSharp.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.AppContext.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Buffers.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Collections.Concurrent.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Collections.Specialized.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Collections.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.ComponentModel.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Configuration.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Console.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Core.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Data.Common.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Data.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.Process.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Drawing.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Drawing.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Globalization.Calendars.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Globalization.Extensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Globalization.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Compression.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.FileSystem.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.Pipes.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.IO.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Linq.Expressions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Linq.Parallel.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Linq.Queryable.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Linq.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Memory.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Http.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.HttpListener.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Mail.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.NameResolution.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Ping.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Quic.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Requests.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Security.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.ServicePoint.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.Sockets.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.WebClient.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.WebProxy.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.WebSockets.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Net.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Numerics.Vectors.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Numerics.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.ObjectModel.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.Uri.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.Xml.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Emit.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Extensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Metadata.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Reflection.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Resources.Reader.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Resources.Writer.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Extensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Handles.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Loader.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Numerics.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.Serialization.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Runtime.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.AccessControl.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Claims.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.Principal.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.SecureString.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Security.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.ServiceModel.Web.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.ServiceProcess.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.Encoding.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Overlapped.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Tasks.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Thread.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.Timer.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Threading.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Transactions.Local.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Transactions.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.ValueTuple.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Web.HttpUtility.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Web.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Windows.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.Linq.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.Serialization.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.XDocument.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.XPath.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Xml.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\WindowsBase.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\mscorlib.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\netstandard.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\System.Private.CoreLib.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\dotnet.js
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\dotnet.timezones.blat
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\dotnet.wasm
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\icudt_CJK.dat
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\icudt_EFIGS.dat
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.csproj.AssemblyReference.cache
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.AssemblyInfoInputs.cache
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.AssemblyInfo.cs
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.csproj.CoreCompileInputs.cache
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.sourcelink.json
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\blazor.build.boot-extension.json
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\blazor.boot.json
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets\msbuild.Quizzing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets\msbuild.build.Quizzing.props
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Quizzing.props
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Quizzing.props
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\Components\OptionCard.razor.rz.scp.css
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\Pages\QuizCard.razor.rz.scp.css
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\bundle\Quizzing.styles.css
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\scopedcss\projectbundle\Quizzing.bundle.scp.css
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ey463x8v0b.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\6ms9z39f3f.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\tvjdvg4vz3.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\gktl6ud1qp.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\xynj6mznos.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\kukoilt4p7.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\01usi5qxcr.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ss9qzbk7nr.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\tinbcigo4k.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\zuvujwe5ps.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ezhe2x64oy.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7tcr41ta07.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\fg3sv0aw47.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jmttv2s6w6.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\kbb0xazcs6.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ggqu0rucuh.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\kw3f429e4j.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\sajwxih80f.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\xc3fvre1e6.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\rsa5n4c2a0.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7k68o2ca50.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\nn4ys26cmg.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\x6hlrle0cf.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\imijhk7rp0.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7q9y0huoje.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\teqf6nclyd.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\8rngtghrtu.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\4e5twa6hxt.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\qjtdyq82ig.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\8g8eblz3rh.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\4zp6v00wjq.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\67upyrstrn.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\271wdv7y7o.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\xoua81i1u5.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\4atfmqyhkc.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\yse4d9gcmj.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\xpvdfmpzac.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\twwl6l94l2.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\tkug60tacb.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jfuqppgt1w.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\yim19s0tgh.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\aicy3gxv0e.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\5zq2hqe8vb.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\llguywfniq.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wlg3t7268b.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wczrgt4v1p.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\1ayocl4cig.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\kerdvvdla6.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\mjbvkiq0d9.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\dmv2vvj42n.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\cii9wg3nen.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\emmaosmhc7.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\62eetvl3dd.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\txwykzon9a.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\n7bfuzao6r.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\rdbd1tkh5q.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\uwmrjwah81.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\2zchbbozbn.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\b08v9zhzb9.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\sby4cszhty.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\czt7qd9pf1.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\5jftg1grzt.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\n0udwz2lah.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\kgrcazafy5.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\nzij3966ff.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\yhdj5m61t8.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\69kp0arc7n.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\5fzir2k58m.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\903898dzfq.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ti9h5kbdnn.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7tlqyx18eg.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\c9hrsnba3v.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\daxhy1i5li.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jxscflo3tv.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\4mhsjv5one.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ymm9cvw6q9.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\h8d6w48yeo.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\2kgh3xovcs.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\0o4yq2vjd5.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ajb2xg7pp2.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\22ep9goqxp.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\kbh9yn8el1.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\2g8du26v4z.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\q60h3kkloq.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\lg9blcec9w.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\fqzt0dbdxo.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\yf7ez966mp.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\cxui1qxqqf.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\j8tt5pmep3.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\0mubevtrh0.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\g6k97ymlvu.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\c1r9f47syb.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\mm2agxamta.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\l6phxnobo7.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\hxgih8mmg6.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\dxdzcqvq2q.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\21pqzf68kw.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\e4225t3aab.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\iope5zim17.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\142b4ga5z9.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\teojttxd1z.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\xralb18h3p.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\816yxfhyqt.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\lew10nn6lz.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\rrs861h1ri.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\2owhpbannp.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\t5ymzvbgcp.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\lkuqbwy1wk.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7q1j4puofc.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\i6xeo4anjj.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\nfs1cm9p9b.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\fqh3omcfsa.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\gad3n1absn.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7dzccnmqwm.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\5j5hf83umj.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\oklsr00855.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ak7omldx9o.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\svv8qthh38.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\a14gaj6bha.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\05slg580vw.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\il0vsgszam.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\l6y07eyf32.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\mj1qjbchd7.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\v9rw3o3un3.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wdcn09fegb.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\1924gw56kc.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\x5c9wkjsi3.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\kjluuwwhhr.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\xhnnxjt1ug.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\65qfcdm79t.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wwpdtzzzec.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\a7rw0xytig.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\loovicj2m8.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\unsu7pi25k.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\4reowzpzwl.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\50ygi4hgii.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wswge9wx1z.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\z1f86wkf7l.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\sgbls8sq27.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\gm2crnpsiz.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\bhmfh5dquf.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7l69z4ruud.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\zu1nmz1b00.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\9mlvhyopsn.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ia8kwzjitn.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\fblhgo4jtk.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\atk9lcbul9.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\7sucjud1ma.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\igwbo7u83d.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wsi6n2fe3o.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wzsnz7acto.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\4psb8et0p3.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ca402poakv.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\30k8qnhblh.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\hrkjhzgfwm.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\f8e3wp5fnh.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\4kf6mefeq3.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\r2qaek2hlk.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\ph07zad55x.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\8kfh7apuu3.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\h9cf43vbmz.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\s9cglw0f50.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\nslo6d7wvd.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\0otofpayr1.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\jb0swpyift.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\try7wn7kz6.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\6tpnncin4g.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\biavxiglfe.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\dm50ircp1y.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\zd800msknu.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\lwuxd1glvk.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wpc3coqahh.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\6tmr6ha3uu.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\sx0mxv0vc5.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\c2joivy2v7.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\va08pwy9dl.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\zpxaeskagn.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\sip3aedxdy.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\duv645xk5s.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\p7w06upudf.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\8vds0ffleb.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\rpgk7aa09c.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\qf8i92qmf5.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\colh2bkx30.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\vscyrfoo1t.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\xr8xtmixef.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\5ez8lywdif.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\sjx2yjqopv.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\z7za786k6g.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\rh9qultzbs.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\5vdv9z048r.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wt33xjw5hg.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\j7g9fie5sw.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\wcdiwf7xe0.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\pkjmnghces.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\djqg5k7syj.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\d7t4dnksom.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\xyrffwa945.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\compressed\uji5zuu4c3.gz
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.csproj.CopyComplete
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\refint\Quizzing.dll
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\Quizzing.pdb
+C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\obj\Debug\net6.0\ref\Quizzing.dll

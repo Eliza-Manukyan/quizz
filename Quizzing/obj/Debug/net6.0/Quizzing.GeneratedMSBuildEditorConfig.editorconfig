@@ -1,0 +1,51 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Quizzing
+build_property.RootNamespace = Quizzing
+build_property.ProjectDir = C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\elmya\Downloads\Telegram Desktop\Quizzing\Quizzing\Quizzing
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/elmya/Downloads/Telegram Desktop/Quizzing/Quizzing/Quizzing/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elmya/Downloads/Telegram Desktop/Quizzing/Quizzing/Quizzing/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elmya/Downloads/Telegram Desktop/Quizzing/Quizzing/Quizzing/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elmya/Downloads/Telegram Desktop/Quizzing/Quizzing/Quizzing/Components/OptionCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPcHRpb25DYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-1ddyp2bn6o
+
+[C:/Users/elmya/Downloads/Telegram Desktop/Quizzing/Quizzing/Quizzing/Pages/QuizCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVpekNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-foy3w8mslc
+
+[C:/Users/elmya/Downloads/Telegram Desktop/Quizzing/Quizzing/Quizzing/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-uly2nud1wv
+
+[C:/Users/elmya/Downloads/Telegram Desktop/Quizzing/Quizzing/Quizzing/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-a6phcx6dlp
